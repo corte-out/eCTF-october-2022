@@ -6,6 +6,8 @@ challonge link: https://challonge.com/de/ectf_october
 
 backup of ALL (80) demos are in: https://github.com/corte-out/ectf-october-2022-all-demos (incase i trashed some game demos or someone feels like rewatching sauerdrama)
 
+ggs, thanks for playing
+
 ![alt text](https://github.com/corte-out/eCTF-october-2022/blob/main/ectf_octo_2022.PNG)
 
 
